@@ -1,0 +1,9 @@
+H:\GeekBrains\Algoritms\Lesson1\RandomAplication\Homework14\bin\Debug\Homework14.exe.config
+H:\GeekBrains\Algoritms\Lesson1\RandomAplication\Homework14\bin\Debug\Homework14.exe
+H:\GeekBrains\Algoritms\Lesson1\RandomAplication\Homework14\bin\Debug\Homework14.pdb
+H:\GeekBrains\Algoritms\Lesson1\RandomAplication\Homework14\obj\Debug\Homework14.Form1.resources
+H:\GeekBrains\Algoritms\Lesson1\RandomAplication\Homework14\obj\Debug\Homework14.Properties.Resources.resources
+H:\GeekBrains\Algoritms\Lesson1\RandomAplication\Homework14\obj\Debug\Homework14.csproj.GenerateResource.cache
+H:\GeekBrains\Algoritms\Lesson1\RandomAplication\Homework14\obj\Debug\Homework14.csproj.CoreCompileInputs.cache
+H:\GeekBrains\Algoritms\Lesson1\RandomAplication\Homework14\obj\Debug\Homework14.exe
+H:\GeekBrains\Algoritms\Lesson1\RandomAplication\Homework14\obj\Debug\Homework14.pdb
