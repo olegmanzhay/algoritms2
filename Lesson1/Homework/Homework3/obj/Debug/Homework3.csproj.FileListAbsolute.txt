@@ -1,0 +1,10 @@
+H:\GeekBrains\Algoritms\Homework\Homework3\bin\Debug\Homework3.exe.config
+H:\GeekBrains\Algoritms\Homework\Homework3\bin\Debug\Homework3.exe
+H:\GeekBrains\Algoritms\Homework\Homework3\bin\Debug\Homework3.pdb
+H:\GeekBrains\Algoritms\Homework\Homework3\obj\Debug\Homework3.csprojAssemblyReference.cache
+H:\GeekBrains\Algoritms\Homework\Homework3\obj\Debug\Homework3.Form1.resources
+H:\GeekBrains\Algoritms\Homework\Homework3\obj\Debug\Homework3.Properties.Resources.resources
+H:\GeekBrains\Algoritms\Homework\Homework3\obj\Debug\Homework3.csproj.GenerateResource.cache
+H:\GeekBrains\Algoritms\Homework\Homework3\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
+H:\GeekBrains\Algoritms\Homework\Homework3\obj\Debug\Homework3.exe
+H:\GeekBrains\Algoritms\Homework\Homework3\obj\Debug\Homework3.pdb
